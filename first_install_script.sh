@@ -17,6 +17,7 @@ sudo apt install default-jre;
 sudo apt install nodejs;
 sudo apt install npm;
 sudo apt install links2;
+sudo apt install byobu;
 
 echo Running apt full-upgrade;
 sudo apt full-upgrade;
