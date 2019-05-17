@@ -22,4 +22,3 @@ partition_manager.sh
 show_disks.sh
 usefull_links.txt
 ### weather.sh
-
