@@ -1,3 +1,3 @@
 #!/bin/bash
-cudo clear
+sudo clear
 sudo curl curl wttr.in
